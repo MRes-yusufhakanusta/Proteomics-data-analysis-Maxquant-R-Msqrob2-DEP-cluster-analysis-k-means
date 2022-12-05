@@ -1,0 +1,2 @@
+"","ONTOLOGY","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0140053","BP","GO:0140053","mitochondrial gene expression","5/58","482/69652",5.26555545505473e-05,0.0466528213317849,0.0354732156972108,"MRPS18B/MRPS15/MRPL51/HSD17B10/AARS2",5
